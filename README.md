@@ -19,4 +19,4 @@ FRONTEND:
 
 #IMAGE LINK: https://github.com/Hemanthkumar789-k/Doodle-Jumb-Website-Game/blob/main/Screenshot%20(3338).png?raw=true
 
-#VIDEO LINK:
+#VIDEO LINK: https://drive.google.com/file/d/1yADtPZMwK2RWxa9O71nhbr2SaToRd7-A/view?usp=drive_link
